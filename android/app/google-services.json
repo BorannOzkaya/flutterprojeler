@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "246721008637",
+    "project_id": "boranyol-beta",
+    "storage_bucket": "boranyol-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246721008637:android:b099539155a0d006bcbf94",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246721008637-eonlln681muj0bmqe9i0v5fdv8nfq6mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shop_app",
+            "certificate_hash": "1f9d47da93d287fd1bf4a365485d2567c26359b3"
+          }
+        },
+        {
+          "client_id": "246721008637-me5lqnkkrfsqd7abkqojs3q98im4ubtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq3LNu7I2iO6l31RXgL0xo9InpQ_ZBV8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246721008637-me5lqnkkrfsqd7abkqojs3q98im4ubtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
